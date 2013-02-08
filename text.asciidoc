@@ -68,6 +68,8 @@ Make a map of where the stores you'll need to go are, and the best routes to get
 * Water
 * baking soda
 * peppermint oil (secondary)
+* Hunter's bacon (makes all powdered foods delicious)
+* Dry soup/noodles/mac & cheese
 
 .Pharmacy
 * Painkillers
@@ -88,6 +90,7 @@ Make a map of where the stores you'll need to go are, and the best routes to get
 * Long johns
 * Wool hat
 * Backpack
+* Small portable stove and fuel
 * Emergency fire starter
 * Waterproof matches
 * Good shoes
